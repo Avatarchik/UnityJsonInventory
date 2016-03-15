@@ -1,0 +1,29 @@
+{
+    "items":
+    [
+        {
+            "id":1,
+            "name": "Potion",
+            "size": 6,
+			"icon": "texture/potion"
+        },
+        {
+            "id":2,
+            "name": "Ether",
+            "size": 3,
+			"icon": "texture/potion"
+        },
+        {
+            "id":3,
+            "name": "Boots",
+            "size": 1,
+			"icon": "texture/potion"
+        },
+        {
+            "id":4,
+            "name": "Sword",
+            "size": 5,
+			"icon": "texture/potion"
+        }
+    ]
+}
