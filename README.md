@@ -69,7 +69,7 @@ public class Item : BaseEntity {
 using UnityEngine;
 using System.Collections;
 
-public class DefaultScript : MonoBehaviour {
+public class DefaultBehaviour : MonoBehaviour {
 
 	void Start () {
 		//create json
